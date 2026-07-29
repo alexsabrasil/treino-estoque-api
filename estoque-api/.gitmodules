@@ -1,0 +1,7 @@
+[submodule "contracts"]
+	path = contracts
+	url = ../estoque-contracts
+
+[submodule "config"]
+	path = config
+	url = ../estoque-infra-config
